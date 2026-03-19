@@ -4,7 +4,7 @@ This project analyzes sales data using Python and displays insights through an i
 ## Tools Used
 - Python
 - Pandas
-- Matplotlib
+- plotly
 - Streamlit
 - Excel
 
